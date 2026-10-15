@@ -106,8 +106,8 @@ if not st.session_state.logged_in:
             else:
                 st.error("Username atau Password salah!")
                 
-    st.info("💡 **Info Akun Bawaan:**\n- Admin: `admin` / `admin123`\n- Kasir: `kasir` / `kasir123`")
-    st.stop()
+   # st.info("💡 **Info Akun Bawaan:**\n- Admin: `admin` / `admin123`\n- Kasir: `kasir` / `kasir123`")
+   # st.stop()
 
 # ================= HALAMAN UTAMA (SETELAH LOGIN) =================
 # Header Top Bar & Tombol Logout
