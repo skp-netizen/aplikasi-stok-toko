@@ -1,0 +1,2 @@
+# aplikasi-stok-toko
+test
